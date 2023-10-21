@@ -1,4 +1,4 @@
-# Unit 4 Homework Assignment: A Whale Off the Port(folio) 🐋
+# A Whale Off the Port(folio) 🐋
 
 ### This repository is to evaluate the performance of different algorithmic, hedge, and mutual fund portfolios against the S&P TSX 60 Index.
 
